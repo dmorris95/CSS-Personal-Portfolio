@@ -5,6 +5,7 @@ Github Link:https://github.com/dmorris95/css-personal-portfolio
 Running this project can be accomplished by opening any of the .html files in the file directory and it will open the file in a browser. From there you can access any page on the project by clicking the navigation links. Each page links to the original 'styles.css' page while also having its own CSS page associated with it.
 
 Features within the project include:
+
     - Contact Form
         -The contact form features validation to ensure fields are not empty and email addresses are in the proper format.
     - ARIA focused throughout the project allowing for better accessability for people with disabilities
